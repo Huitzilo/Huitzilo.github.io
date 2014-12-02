@@ -7,6 +7,8 @@ tagline: Neuromorphic computing, Odour Space exploration, and other things
 
 There's no content here yet. Hang in for stuff to come.
 
+Everything below is boilerplate content from jekyll-bootstrap.
+
     
 ## Sample Posts
 
