@@ -5,10 +5,9 @@ tagline: Neuromorphic computing, Odour Space exploration, and other things
 ---
 {% include JB/setup %}
 
-There's no content here yet. Hang in for stuff to come.
+There's no content here and I have currently no plans to add any. Just wanted to play around with jekyll-bootstrap, and test the <username>.github.io web service, that's all. Everything you see on this page is boilerplate content from jekyll-bootstrap (except this note of course).
 
-Everything below is boilerplate content from jekyll-bootstrap.
-
+So, please walk on, nothing to see here folks. Have a nice day!
     
 ## Sample Posts
 
