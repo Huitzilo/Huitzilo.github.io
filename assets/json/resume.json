@@ -1,37 +1,45 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michael Schmuker",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+    "email": "m.schmuker@biomachinelearning.net",
+    "url": "https://biomachinelearning.net"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
+      "name": "Helmholtz Association of German Research Centers e.V.",
+      "position": "Head of Information & Data Science",
+      "url": "https://helmholtz.de",
+      "startDate": "2023-01-11",
+      "summary": "Developing collaboration and services in Data Science and AI across the entire Helmholtz Association.",
+      "highlights": ["Data Science and AI"]
+    },
+    {
+      "name": "University of Hertfordshire",
+      "position": "Professor of Neural Computation",
+      "url": "https://herts.ac.uk",
+      "startDate": "2016-09-09",
+      "endDate": "2023-10-31",
+      "summary": "Research on neuromorphic olfaction and electronic gas sensing. Teaching in Data Science, AI, and general computer science.",
+      "highlights": ["Neuromorphic Olfaction"]
+    },    {
+      "name": "Helmholtz Association of German Research Centers e.V.",
+      "position": "Head of Information & Data Science",
+      "url": "https://helmholtz.de",
+      "startDate": "2023-01-11",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
+    },    {
+      "name": "Helmholtz Association of German Research Centers e.V.",
+      "position": "Head of Information & Data Science",
+      "url": "https://helmholtz.de",
+      "startDate": "2023-01-11",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    }    
   ],
   "volunteer": [
     {
